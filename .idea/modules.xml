@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CHATAPP.MyChatApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CHATAPP.MyChatApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CHATAPP.MyChatApp.app.androidTest~1.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CHATAPP.MyChatApp.app.androidTest~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CHATAPP.MyChatApp.app.main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CHATAPP.MyChatApp.app.main~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CHATAPP.MyChatApp.app.unitTest~1.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CHATAPP.MyChatApp.app.unitTest~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyChatApp.iml" filepath="$PROJECT_DIR$/.idea/modules/MyChatApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyChatApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyChatApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyChatApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyChatApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyChatApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyChatApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyChatApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyChatApp.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
